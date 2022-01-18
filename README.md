@@ -8,7 +8,7 @@
 
 <!-- ✔️ I have experience in FULL stack web development .<br> -->
 
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+<!-- ✔️ I have been the participant of  open-source event such as HacktoberFest'20. -->
 
 <br>
 
